@@ -1,0 +1,21 @@
+$(OBJDIR)/Vrui/Internal/ImageSequenceMovieSaver.o: \
+ Vrui/Internal/ImageSequenceMovieSaver.cpp  \
+ /home/nb-0289a/src/Vrui-3.1-004/Vrui/Internal/ImageSequenceMovieSaver.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/MutexCond.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/Time.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Config.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Thread.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Vrui/Internal/MovieSaver.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/TripleBuffer.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Spinlock.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ThrowStdErr.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/StandardValueCoders.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ValueCoder.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ConfigurationFile.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ConfigurationFile.icpp \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/StringMarshaller.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Images/WriteImageFile.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Images/RGBImage.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Images/Image.h \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLColor.h \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLScalarLimits.h

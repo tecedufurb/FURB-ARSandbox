@@ -1,0 +1,24 @@
+$(OBJDIR)/VRDeviceDaemon/VRDevices/Wiimote.o: \
+ VRDeviceDaemon/VRDevices/Wiimote.cpp  \
+ /home/nb-0289a/src/Vrui-3.1-004/VRDeviceDaemon/VRDevices/Wiimote.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/CallbackData.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/CallbackList.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Mutex.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Config.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Cond.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/Time.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/MutexCond.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Thread.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/BrokenLine.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/Math.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Vector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/ComponentArray.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ThrowStdErr.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/StandardValueCoders.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ValueCoder.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/CompoundValueCoders.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/CompoundValueCoders.icpp \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ConfigurationFile.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ConfigurationFile.icpp \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/StringMarshaller.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/MathValueCoders.h

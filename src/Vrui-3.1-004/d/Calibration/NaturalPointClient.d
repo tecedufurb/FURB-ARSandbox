@@ -1,0 +1,20 @@
+$(OBJDIR)/Calibration/NaturalPointClient.o: \
+ Calibration/NaturalPointClient.cpp  \
+ Calibration/NaturalPointClient.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Thread.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/MutexCond.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/Time.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Config.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/TripleBuffer.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Threads/Spinlock.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Comm/UDPSocket.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Point.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/Math.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/ComponentArray.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Vector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Rotation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/HVector.h \
+ Calibration/PacketBuffer.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/Endianness.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ThrowStdErr.h  \
+ 

@@ -1,0 +1,24 @@
+$(OBJDIR)/GL/GLTransformationWrappers.o: \
+ GL/GLTransformationWrappers.cpp  \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLTransformationWrappers.icpp \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLTransformationWrappers.h \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLMatrixEnums.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/Math.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/TranslationTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Vector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/ComponentArray.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Point.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/HVector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/RotationTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Rotation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/OrthonormalTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Matrix.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/UniformScalingTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/OrthogonalTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/ScalingTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/AffineTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/ProjectiveTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLMatrixTemplates.h \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLVector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLGetMatrixTemplates.h \
+ /home/nb-0289a/src/Vrui-3.1-004/GL/GLGetTemplates.h

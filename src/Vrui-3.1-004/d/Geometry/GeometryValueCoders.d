@@ -1,0 +1,26 @@
+$(OBJDIR)/Geometry/GeometryValueCoders.o: \
+ Geometry/GeometryValueCoders.cpp  \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/GeometryValueCoders.icpp \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/GeometryValueCoders.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ValueCoder.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/StandardValueCoders.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ArrayValueCoders.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ArrayValueCoders.icpp \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/FixedArray.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/Math.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/ComponentArray.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Vector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Point.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/HVector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Box.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Ray.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/SolidHitResult.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/HitResult.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/Constants.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Plane.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Matrix.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Rotation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/OrthonormalTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/OrthogonalTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/AffineTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/ProjectiveTransformation.h

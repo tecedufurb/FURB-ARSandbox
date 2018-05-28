@@ -1,0 +1,29 @@
+$(OBJDIR)/Geometry/GeoCoordinateSystem.o: \
+ Geometry/GeoCoordinateSystem.cpp  \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/GeoCoordinateSystem.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/RefCounted.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/Autopointer.h \
+ /home/nb-0289a/src/Vrui-3.1-004/IO/Directory.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/FileTests.h \
+ /home/nb-0289a/src/Vrui-3.1-004/IO/File.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/Endianness.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Point.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/Math.h  \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/ComponentArray.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Vector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Box.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Ray.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/SolidHitResult.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/HitResult.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Math/Constants.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/SelfDestructPointer.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Misc/ThrowStdErr.h \
+ /home/nb-0289a/src/Vrui-3.1-004/IO/ValueSource.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Geoid.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Matrix.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/HVector.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/Rotation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/OrthonormalTransformation.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/AlbersEqualAreaProjection.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/LambertConformalProjection.h \
+ /home/nb-0289a/src/Vrui-3.1-004/Geometry/TransverseMercatorProjection.h
